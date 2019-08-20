@@ -1,6 +1,6 @@
 # 14-Fungalbodied
 
-My contribution to Eric Taxxon's upcoming colabrative music video for their track "Ordeal Day" from the album <a href="https://www.youtube.com/watch?v=szsvBK3_-As">Wavetable</a>.
+My contribution to Patricia Taxxon's upcoming colabrative music video for her track "Ordeal Day" from the album <a href="https://www.youtube.com/watch?v=szsvBK3_-As">Wavetable</a>.
 
 Made with <a href="https://p5js.org/">p5.js</a> and <a href="https://tonejs.github.io/">tone.js</a>.
 <br>
